@@ -64,8 +64,8 @@ footer a {
 
 /*Tamaño imagenes descripciones lineas*/
 .img-desc-lineas {
-  width: 15em;
-  height: 15em;
+  width: 100%;
+  height: 100%;
 }
 
 /*Define el alto de las imagenes para cada seccion*/
@@ -75,7 +75,7 @@ footer a {
 
 /*Centrar productos para agregar al carrito de compras*/
 .centrar-productos {
-  width: 13rem;
+  width: auto;
   text-align: center;
 }
 
