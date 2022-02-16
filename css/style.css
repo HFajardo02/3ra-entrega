@@ -89,6 +89,11 @@ footer a {
   height: 5em;
 }
 
+/*Tamaño de la letra de los productos de la tienda*/
+.card-title-propio {
+  font-size: auto;
+}
+
 /*Media Query*/
 @media (orientation: portrait) {
   .vista-col {
